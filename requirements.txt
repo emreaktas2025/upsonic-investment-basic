@@ -1,0 +1,11 @@
+# Core Upsonic Framework
+upsonic>=0.52.0
+
+# Financial Data (for accurate stock prices)
+yfinance>=0.2.22
+
+# Environment Management
+python-dotenv>=1.0.0
+
+# Enhanced search (fixes duckduckgo warning)
+ddgs>=6.0.0
