@@ -115,24 +115,6 @@ Microsoft shows strong fundamentals with robust cloud growth...
 - `openai/gpt-4`
 - `openai/gpt-3.5-turbo`
 
-## 🐛 Troubleshooting
-
-### API Key Error
-
-```❌ OpenAI API key not found
-
-```**Solution:** Create `.env` file with your API key
-
-### Invalid Ticker
-
-```❌ Invalid ticker or data unavailable
-```**Solution:** Use valid stock symbols (AAPL, MSFT, GOOGL, etc.)
-
-### Import Error
-
-```ModuleNotFoundError: No module named 'yfinance'
-```**Solution:** Install dependencies: `pip install -r requirements.txt`
-
 ## 📝 Sample Report File
 
 When using `--output`, generates a structured text report:
